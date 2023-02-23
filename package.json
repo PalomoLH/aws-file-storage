@@ -1,0 +1,15 @@
+{
+  "name": "aws-file-storage",
+  "version": "1.0.0",
+  "description": "Testing aws cloud storage for files and buckets (s3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luizh.gpalomo@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1321.0",
+    "uuid": "^9.0.0"
+  }
+}
